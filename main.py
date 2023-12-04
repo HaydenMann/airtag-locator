@@ -1,3 +1,6 @@
+# Hayden Mann
+# Main Python script for logging airtag locations
+
 import json
 from datetime import datetime
 from pathlib import Path
